@@ -1,5 +1,5 @@
 [tools]
-uv = "0.13.7"
+uv = "0.13.8"
 # Lint tools run by .github/workflows/lint.yml (Renovate keeps them current).
 dprint = "0.64.3"
 yamlfmt = "0.21.0"
@@ -10,4 +10,4 @@ shfmt = "3.14.1"
 trivy = "0.76.2"
 zizmor = "1.32.0"
 "pipx:yamllint" = "1.38.0"
-"pipx:checkov" = "3.4.3"
+"pipx:checkov" = "3.4.5"
